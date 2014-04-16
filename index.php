@@ -9,10 +9,11 @@ $page_meta = array(
 );
 $body_class = array(
 	"page" => "pg_home",
-	"site_section" => "home",
+	"site_section" => "sct_home",
 	"layout" => ""
 );
-	
+?>
+<? 	
 include("includes/header.php");
 ?>
 	<section id="banner">
